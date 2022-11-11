@@ -1,0 +1,46 @@
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.xml
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.vbprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.xml
+c:\users\hp\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
+G:\restaurant\restaurant\bin\Debug\restaurant.exe.config
+G:\restaurant\restaurant\bin\Debug\restaurant.exe
+G:\restaurant\restaurant\bin\Debug\restaurant.pdb
+G:\restaurant\restaurant\bin\Debug\restaurant.xml
+G:\restaurant\restaurant\obj\Debug\restaurant.vbprojAssemblyReference.cache
+G:\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+G:\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+G:\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.cache
+G:\restaurant\restaurant\obj\Debug\restaurant.vbproj.CoreCompileInputs.cache
+G:\restaurant\restaurant\obj\Debug\restaurant.exe
+G:\restaurant\restaurant\obj\Debug\restaurant.xml
+G:\restaurant\restaurant\obj\Debug\restaurant.pdb
+D:\restaurant\restaurant\bin\Debug\restaurant.exe.config
+D:\restaurant\restaurant\obj\Debug\restaurant.exe
+D:\restaurant\restaurant\obj\Debug\restaurant.xml
+D:\restaurant\restaurant\obj\Debug\restaurant.pdb
+D:\restaurant\restaurant\bin\Debug\restaurant.exe
+D:\restaurant\restaurant\bin\Debug\restaurant.pdb
+D:\restaurant\restaurant\bin\Debug\restaurant.xml
+D:\restaurant\restaurant\obj\Debug\restaurant.vbprojResolveAssemblyReference.cache
+D:\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+D:\restaurant\restaurant\obj\Debug\restaurant.Resources.resources
+D:\restaurant\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.Cache
+E:\juice system\restaurant\obj\Debug\restaurant.vbprojAssemblyReference.cache
+E:\juice system\restaurant\obj\Debug\restaurant.Form1.resources
+E:\juice system\restaurant\obj\Debug\restaurant.Resources.resources
+E:\juice system\restaurant\obj\Debug\restaurant.vbproj.GenerateResource.cache
+E:\juice system\restaurant\obj\Debug\restaurant.vbproj.CoreCompileInputs.cache
+E:\juice system\restaurant\obj\Debug\restaurant.exe
+E:\juice system\restaurant\obj\Debug\restaurant.xml
+E:\juice system\restaurant\obj\Debug\restaurant.pdb
+E:\juice system\restaurant\bin\Debug\restaurant.exe.config
+E:\juice system\restaurant\bin\Debug\restaurant.exe
+E:\juice system\restaurant\bin\Debug\restaurant.pdb
+E:\juice system\restaurant\bin\Debug\restaurant.xml

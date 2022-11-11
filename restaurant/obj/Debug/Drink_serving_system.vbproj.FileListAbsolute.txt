@@ -1,0 +1,12 @@
+E:\juice system\restaurant\bin\Debug\restaurant.exe.config
+E:\juice system\restaurant\bin\Debug\restaurant.exe
+E:\juice system\restaurant\bin\Debug\restaurant.pdb
+E:\juice system\restaurant\bin\Debug\restaurant.xml
+E:\juice system\restaurant\obj\Debug\Drink_serving_system.vbprojAssemblyReference.cache
+E:\juice system\restaurant\obj\Debug\restaurant.Form1.resources
+E:\juice system\restaurant\obj\Debug\restaurant.Resources.resources
+E:\juice system\restaurant\obj\Debug\Drink_serving_system.vbproj.GenerateResource.cache
+E:\juice system\restaurant\obj\Debug\Drink_serving_system.vbproj.CoreCompileInputs.cache
+E:\juice system\restaurant\obj\Debug\restaurant.exe
+E:\juice system\restaurant\obj\Debug\restaurant.xml
+E:\juice system\restaurant\obj\Debug\restaurant.pdb
